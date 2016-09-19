@@ -1,0 +1,50 @@
+.boxes{
+	border:1px solid black;
+}
+
+.boxes-top{
+	width: 800px;
+	font-size: 0;
+	margin: 0 auto;
+
+}
+.box-top-1{
+	background-color: green;
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+
+
+}
+
+.box-top-2{
+	background-color: blue;
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+
+}
+.boxes-bottom{
+	width: 800px;
+	font-size: 0;
+	margin: 0 auto;
+}
+.box-bottom-1{
+	background: grey;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+}
+.box-bottom-2{
+	background-color: black;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+}
+
+.box-bottom-3{
+	background-color:orange;
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+}
